@@ -19,20 +19,15 @@ A aplicação oferece as seguintes funcionalidades principais:
 
 ## Como Executar o Projeto
 
-1. Clone este repositório em sua máquina local:
-    `git clone https://github.com/amndmsilva/ToDo-List.git`
+1. Clone este repositório em sua máquina local: `git clone https://github.com/amndmsilva/ToDo-List.git`
    
-2. Acesse o diretório do projeto:
-    `cd seu-repositorio`
+2. Acesse o diretório do projeto: `cd seu-repositorio`
 
-3. Instale as dependências:
-    `npm install`
-
-4.Inicie o servidor de desenvolvimento:
-   `npm run dev`
-
-5.Acesse a aplicação no navegador:
-   `http://localhost:3000`
+3. Instale as dependências: `npm install`
+   
+4. Inicie o servidor de desenvolvimento: `npm run dev`
+   
+5. Acesse a aplicação no navegador: `http://localhost:3000`
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
