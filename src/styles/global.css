@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+:focus {
+  outline: 0;
+  box-shadow: 0 0 0 1px #f2f2f2;
+}
